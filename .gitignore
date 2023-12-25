@@ -42,7 +42,7 @@ Procfile
 config/apache
 config/cable.yml
 config/cockpit
-config/database.yml*
+# config/database.yml*
 config/messaging.yml
 config/vmdb.yml.db
 
